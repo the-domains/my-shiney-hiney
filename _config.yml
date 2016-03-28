@@ -1,0 +1,28 @@
+name: My Shiney Hiney
+favicon: null
+layout_spectrum: 0.02172389323823154
+typography_spectrum: 0.5169114689342678
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8344699274748564
+  lightness: 0.4090865694452077
+  saturation: 0.813522404525429
+  rhythmicContrast: 0.9203122414182872
+purpose: []
